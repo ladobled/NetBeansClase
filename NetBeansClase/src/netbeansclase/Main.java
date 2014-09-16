@@ -15,6 +15,11 @@ public class Main {
     /**
      * @param args the command line arguments
      */
+     public void Saludar(){
+         int n;
+         double H;
+         System.out.println();
+     }
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Holaaaaaaa ^_^!");
