@@ -19,5 +19,11 @@ public class Main {
         // TODO code application logic here
         System.out.println("Holaaaaaaa ^_^!");
     }
+    public void asustar() {
+        // TODO code application logic here
+        System.out.println("Holaaaaaaa ^_^!");
+        System.out.println("Holaaaaaaa ^_^!");
+    }
+   
     
 }
